@@ -31,20 +31,18 @@ Project Organization
     ├── Makefile           <- ....
     ├── README.md          <- README. 
     ├── data
-    │   ├── external       <- Data from third party sources. Datos de fuentes externas.
-    │   ├── processed      <- The final, canonical data sets for modeling. Set de datos final para la modelización. 
-    │   └── raw            <- The original, immutable data dump. Data original en archivo csv.
+    │   ├── external       <- Datos de fuentes externas.
+    │   │   └── raw        <- Datos originales.
     │
-    ├── docs               <- Documents explaining objetives. Documentos descriptivos del proyecto.
+    ├── docs               <- Documentos descriptivos del proyecto.
     │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries. Modelos realizados
+    ├── models             <- Modelos realizados
     │
     ├── notebooks          <- Jupyter notebooks.
     │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials. Manuales de códigos.
     │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc. Reporte final. 
-    │   └── figures        <- Generated graphics and figures to be used in reporting. Gráficos de reporte.
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment. Requerimientos para la reproducción del modelo. 
+    ├── reports            <- Reporte final. 
+        │
+    ├── requirements.txt   <- Requerimientos para la reproducción del modelo. 
     │
