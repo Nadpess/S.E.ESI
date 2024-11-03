@@ -1,1 +1,1 @@
-[Nucleos de aprendizaje Prioritarios https://www.educ.ar/recursos/110572/nap-ciencias-sociales-educacion-secundaria-ciclo-basico]
+Link a los Nucleos de aprendizaje Prioritarios para el área de ciencias sociales del ciclo básico de la educación secundaria.[https://www.educ.ar/recursos/110572/nap-ciencias-sociales-educacion-secundaria-ciclo-basico]
