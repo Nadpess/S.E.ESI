@@ -1,0 +1,93 @@
+{
+  "__v": 1,
+  "description": "Base de conocimiento de ESI para Ciencias Sociales",
+  "entries": [
+    {
+      "name": "Presentar oportunidades y resistencias",
+      "description": "Esta recomendación de la ESI refiere a la contextualización de los textos que se trabajen desde una perspectiva de género",
+      "props": [
+        "Se trabaja con textos fuente",
+        "Se trabaja con textos de autoras mujeres ",
+        "Se pone contexto de género"
+      ]
+    },
+    {
+      "name": "Presentar movimiento de época",
+      "description": "Esta recomendación de la ESI refiere al reconocimiento de los diferentes movimientos de mujeres que había en el contexto de la escritura",
+      "props": [
+        "Se trabaja con textos fuente",
+        "Se trabaja con textos de autoras mujeres ",
+        "Se pone contexto de género"
+      ]
+    },
+    {
+      "name": "Incorporar textos de mujeres",
+      "description": "Esta recomendacionón de la ESI atiende a la divulgación de textos fuentes de autoras mujeres en las clases ",
+      "props": [
+          "Se trabaja con textos fuente",
+          "Se trabaja con textos de autoras mujeres "
+      ]
+    },
+    {
+      "name": "Visibilizar mujeres en la historia",
+      "description": "Esta recomendación de la ESI intenta visibilizar en las efemérides la participación de las mujeres en los eventos conmemorados",
+      "props": [
+        "Se trabaja con textos fuente",
+        "Se trabaja con efemérides"
+      ]
+    },
+    {
+      "name": "Concepto: Trabajo no remunerado",
+      "description": "Esta recomendación de la ESI invita a trabajar con el concepto de trabajo no remunerado en caso de que se aborde el análisis del ámbito fammiliar",
+      "props": [
+        "Se trabaja con el ámbito privado",
+        "Se trabaja la noción de familia",
+        "Visibiliza roles de género en la familia"
+      ]
+    },
+    {
+      "name": "Trabajar roles de género",
+      "description": "Esta recomendación de la ESI invita a trabajar los roles de género en caso de que se aborde el análisis del ámbito fammiliar",
+      "props": [
+        "Se trabaja con el ámbito privado",
+        "Se trabaja la noción de familia"
+              ]
+    }, 
+    {
+      "name": "Trabajar vida privada",
+      "description": "Esta recomendación de la ESI invita a trabajar los aspectos de la vida privada que pueden asociarse a las temáticas estudiadas en las ciencias sociales",
+      "props": [
+        "Se trabaja con el ámbito privado"
+      ]
+    },
+    {
+      "name": "Concepto: Techo de cristales",
+      "description": "Esta recomendación de la ESI invita a trabajar con el concepto de techo de cristal en caso de que se aborde el análisis del ámbito público",
+      "props": [
+        "Se trabaja el ámbito público",
+        "Visibiliza las desigualdades en el ámbito público político"
+      ]
+    },
+    {
+      "name": "Trabajar vida política",
+      "description": "Esta recomendación de la ESI invita a trabajar los aspectos de la vida pública política que pueden asociarse a las temáticas estudiadas en las ciencias sociales",
+      "props": [
+        "Se trabaja el ámbito público"
+      ]
+    },
+    {
+      "name": "Concepto: división sexual del trabajo",
+      "description": "Esta recomendación de la ESI invita a trabajar el cocepto de división sexual del trabajo como un aspecto de la vida económica",
+      "props": [
+        "Visibiliza las desigualdades en la economía"
+      ]
+    },
+    {
+      "name": "Trabajar vida económica",
+      "description": "Esta recomendación de la ESI invita a trabajar los aspectos de la vida económica que pueden asociarse a las temáticas estudiadas en las ciencias sociales",
+      "props": [
+
+      ]
+    }
+  ]
+}
